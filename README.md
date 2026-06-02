@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello , I am Mehak , Welcome to my profile<br>I am a NEXT-GEN DEVELOPER<br>Learning DSA and AI/ML<br><br>My Tech Journey<br>🎯 Curiosity → Computers<br><br>💻 C Programming → Logic Building<br><br>🎮 Quiz Game → First Complete Project<br><br>📊 Student Management System → Practical Development<br><br>🔬 Research Exposure → Learning Beyond Textbooks<br><br>🤖 IntelliVision → AI & Computer Vision Concepts<br><br>📚 DSA + OS + C++ → Continuous Growth<br><br>🚀 Next Stop → Building Better Software Every Day
+Hello , I am Mehak , Welcome to my profile<br>I am a NEXT-GEN DEVELOPER<br>Learning DSA and AI/ML<br><br><br><br>
+"Curiosity sparked the journey → C programming built the foundation → Projects strengthened problem-solving..."
+<br><br>My Tech Journey<br>🎯 Curiosity → Computers<br><br>💻 C Programming → Logic Building<br><br>🎮 Quiz Game → First Complete Project<br><br>📊 Student Management System → Practical Development<br><br>🔬 Research Exposure → Learning Beyond Textbooks<br><br>🤖 IntelliVision → AI & Computer Vision Concepts<br><br>📚 DSA + OS + C++ → Continuous Growth<br><br>🚀 Next Stop → Building Better Software Every Day
 
 
 ## 🌐 Socials:
