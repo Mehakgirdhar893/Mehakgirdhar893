@@ -3,10 +3,9 @@ Hi 👋 I'm Mehak
 <br>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=300&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Mehak;Learning+Deeply.+Building+Consistently.+Growing+Every+Day.;Problem+Solver+%7C+Developer+%7C+Learner;Exploring+DSA%2C+OS+and+AI%2FML;Turning+Curiosity+Into+Code+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Mehak;Learning+Deeply.+Building+Consistently.;Computer+Science+Student;Exploring+DSA+and+AI%2FML;Turning+Curiosity+Into+Code+🚀" alt="Typing SVG" />
 </p>
+
 ### Learning deeply. Building consistently. Growing every day.<br>
 A Computer Science student passionate about problem-solving, software development, and continuous learning.<br>Learning DSA and AI/ML<br>
 I believe learning is a journey, not a destination.
