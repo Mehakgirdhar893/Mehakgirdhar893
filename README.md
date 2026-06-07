@@ -1,5 +1,4 @@
 # 💫 About Me:
-Hi 👋 I'm Mehak
 <br>
 
 
@@ -11,7 +10,7 @@ Hi 👋 I'm Mehak
 </p>
 
 
-
+<hr>
 A Computer Science student passionate about problem-solving, software development, and continuous learning.<br>
 I believe learning is a journey, not a destination.
 
@@ -31,13 +30,7 @@ Every project, every bug, and every challenge teaches something new and brings m
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mehakgirdhar893&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mehakgirdhar893&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Mehakgirdhar893&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
